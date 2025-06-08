@@ -7,3 +7,4 @@
 透過「封裝」、「繼承」與「多型」等特性，能讓程式碼更容易維護與擴充。
 
 詳細介紹請參考 [OOP/README.md](OOP/README.md)。
+SOLID 原則介紹請參考 [SOLID/README.md](SOLID/README.md)。
