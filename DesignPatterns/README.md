@@ -112,3 +112,4 @@
 ## 範例目錄
 
 - [Singleton](./Singleton/README.md)
+- [Factory Method](./FactoryMethod/README.md)
