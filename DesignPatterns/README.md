@@ -116,3 +116,4 @@
 - [Factory Method](./FactoryMethod/README.md)
 - [Abstract Factory](./AbstractFactory/README.md)
 - [Prototype](./Prototype/README.md)
+- [Builder](./Builder/README.md)
