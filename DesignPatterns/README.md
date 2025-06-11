@@ -120,3 +120,4 @@
 - [Adapter](./Adapter/README.md)
 - [Bridge](./Bridge/README.md)
 - [Composite](./Composite/README.md)
+- [Decorator](./Decorator/README.md)
