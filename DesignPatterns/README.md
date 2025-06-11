@@ -51,6 +51,7 @@
 
 - 單例模式（Singleton）
 - 工廠方法模式（Factory Method）
+- [Abstract Factory](./AbstractFactory/README.md)
 - 抽象工廠模式（Abstract Factory）
 - 原型模式（Prototype）
 - 建造者模式（Builder）
@@ -113,3 +114,4 @@
 
 - [Singleton](./Singleton/README.md)
 - [Factory Method](./FactoryMethod/README.md)
+- [Abstract Factory](./AbstractFactory/README.md)
