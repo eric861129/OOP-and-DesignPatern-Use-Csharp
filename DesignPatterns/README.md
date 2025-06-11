@@ -121,3 +121,7 @@
 - [Bridge](./Bridge/README.md)
 - [Composite](./Composite/README.md)
 - [Decorator](./Decorator/README.md)
+- [Facade](./Facade/README.md)
+- [Flyweight](./Flyweight/README.md)
+- [Proxy](./Proxy/README.md)
+- [Chain of Responsibility](./ChainOfResponsibility/README.md)
