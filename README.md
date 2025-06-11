@@ -8,3 +8,4 @@
 
 詳細介紹請參考 [OOP/README.md](OOP/README.md)。
 SOLID 原則介紹請參考 [SOLID/README.md](SOLID/README.md)。
+設計模式範例請參考 [DesignPatterns/README.md](DesignPatterns/README.md)。
