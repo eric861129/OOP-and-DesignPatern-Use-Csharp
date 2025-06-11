@@ -117,3 +117,5 @@
 - [Abstract Factory](./AbstractFactory/README.md)
 - [Prototype](./Prototype/README.md)
 - [Builder](./Builder/README.md)
+- [Adapter](./Adapter/README.md)
+- [Bridge](./Bridge/README.md)
